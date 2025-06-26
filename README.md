@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aamir Rafique</h1>
 <h3 align="center">A passionate Software Engineering Student.</h3>
 
-- 🔭 I’m currently working on **Destop and Web Applications **
+- 🔭 I’m currently working on **Web Applications**
 
-- 🌱 I’m currently learning **Java, Frontend Development**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 🤝 I’m looking for help with **Frontend Development**
 
