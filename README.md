@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **Web Applications**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m working as a **React Frontend Developer**
 
 - 📫 How to reach me **amirrafique6400@gmail.com**
 
