@@ -18,8 +18,3 @@ Reach me at **amirrafique6400@gmail.com**
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aamir-Rafique&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Aamir-Rafique&icon=0&color=0)](https://visitcount.itsvg.in)
-
