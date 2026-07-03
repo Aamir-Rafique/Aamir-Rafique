@@ -3,6 +3,7 @@
 Hi 👋</br>
 I’m Aamir Rafique, a **Software Engineer to be**</br>
 I like to solve real world problems using my tech skills.
+My Portfolio: https://aamirrafique.dev
 
 ## Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aamir-rafique-7a5bb1336/)
