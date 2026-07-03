@@ -2,7 +2,7 @@
 
 Hi 👋</br>
 I’m Aamir Rafique, a **Software Engineer to be**</br>
-I like to solve real world problems using my tech skills.
+I like to solve real world problems using my tech skills.</br>
 My Portfolio: https://aamirrafique.dev
 
 ## Socials:
