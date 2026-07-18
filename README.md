@@ -3,7 +3,7 @@
 
 I build high-performance, scalable web applications and SaaS platforms that bridge complex backend architecture with clean, responsive user interfaces. My engineering focus is centered on performance optimization, clean code principles, and seamless AI integrations.
 
-[🌐 Explore my Portfolio](https://aamirrafique.dev) | [💼 Connect on LinkedIn](https://www.linkedin.com/in/aamir-rafique-7a5bb1336/) | [✉️ Get in Touch](mailto:amirrafique6400@gmail.com)
+[🌐 Explore my Portfolio](https://aamirrafique.dev) | [✉️ Get in Touch](mailto:amirrafique6400@gmail.com)
 
 ---
 
