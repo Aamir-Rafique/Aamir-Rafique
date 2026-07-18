@@ -25,30 +25,6 @@ I build high-performance, scalable web applications and SaaS platforms that brid
 ### Tooling & Environments
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
----
-
-## 🚀 Featured Production Repositories
-
-### 1. [IntelliReq: AI-Based Software Requirements Platform](https://github.com/Aamir-Rafique/ai-based-software-req-elicitaion-app-nextjs)
-* **Context:** An intelligent full-stack SaaS application built to automate and accelerate software project planning workflows.
-* **Core Tech:** Next.js (App Router), React, TypeScript, LLM Stream Integration.
-* **Key Architecture:** Engineered dynamic AI-driven questioning pipelines to analyze unstructured project concepts and systematically generate production-ready technical requirements backlogs.
-
-### 2. [Local Lead-Gen & E-Commerce Infrastructure](https://github.com/Aamir-Rafique) *(Update repo link if available)*
-* **Context:** A highly optimized e-commerce and local lead capturing engine engineered for real-world commercial operations.
-* **Core Tech:** Next.js, Tailwind CSS, Shadcn UI, Custom AI Chat Assistant, WhatsApp/Social API Integrations.
-* **Key Architecture:** Implemented a granular inventory admin dashboard alongside structured local SEO schema, optimizing Core Web Vitals to convert digital inbound leads into direct sales.
-
----
-
-## 📈 Engineering Metrics & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aamir-Rafique&show_icons=true&theme=tokyonight&count_private=true" alt="Aamir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-Rafique&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
